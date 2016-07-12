@@ -1,0 +1,10 @@
+App installation instructions for server TomCat (7 in my case)
+
+1. add Imenik.war to apache-tomcat-x.x.x/webapps
+2. go to localhost:8080/Imenik/
+
+
+
+
+Project Imenik source code is located at:
+http://github.com/PeterLeChuck/Imenik
